@@ -15,6 +15,7 @@ So whether you're just starting out with Python or looking to deepen your knowle
 ## Table of Contents:
 - [Calculating compound interest](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/calculating_compound_interest.py)
 - [Using in ai in python](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/ai_model.py)
+- []
 
 ## Additional resources:
 - [Python documentation](https://docs.python.org/3/)
