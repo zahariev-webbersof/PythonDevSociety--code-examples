@@ -14,7 +14,9 @@ So whether you're just starting out with Python or looking to deepen your knowle
 
 ## Python Code Examples:
 ➡ [Calculating compound interest](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/calculating_compound_interest.py)
+
 ➡ [Using in ai in python](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/ai_model.py)
+
 ➡ [Two-Factor Authentication (2FA)](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/2FA.py)
 
 ## Additional resources:
