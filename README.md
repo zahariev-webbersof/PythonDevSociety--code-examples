@@ -12,10 +12,11 @@ So whether you're just starting out with Python or looking to deepen your knowle
 
 [➡ Python Dev Soicety - official fan page 🌐](https://www.facebook.com/PythonDevSociety/)
 
-## Table of Contents:
-- [Calculating compound interest](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/calculating_compound_interest.py)
-- [Using in ai in python](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/ai_model.py)
+## Python Code Examples:
+➡ [Calculating compound interest](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/calculating_compound_interest.py)
+➡ [Using in ai in python](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/ai_model.py)
+➡ [Two-Factor Authentication (2FA)](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/2FA.py)
 
 ## Additional resources:
-- [Python documentation](https://docs.python.org/3/)
-- [Additional resources](#additional-resources)
+➡ [Python documentation](https://docs.python.org/3/)
+➡ [Additional resources](#additional-resources)
