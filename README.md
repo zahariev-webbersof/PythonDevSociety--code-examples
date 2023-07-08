@@ -19,6 +19,8 @@ So whether you're just starting out with Python or looking to deepen your knowle
 
 ➡ [Two-Factor Authentication (2FA)](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/2FA.py)
 
+->
+
 ## Additional resources:
 ➡ [Python documentation](https://docs.python.org/3/)
 ➡ [Additional resources](#additional-resources)
