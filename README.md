@@ -27,6 +27,7 @@ Together, let's unlock the full potential of Python and embark on an exciting le
 
 ➡
 
+
 ## Additional resources:
 ➡ [Python documentation](https://docs.python.org/3/)
 
