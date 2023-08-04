@@ -32,3 +32,5 @@ Together, let's unlock the full potential of Python and embark on an exciting le
 ➡ [Python documentation](https://docs.python.org/3/)
 
 ➡ [Additional resources](#additional-resources)
+
+➡ [Top 10 Pytohn algorithms](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/Top%2010%20Python%20algorithms)
