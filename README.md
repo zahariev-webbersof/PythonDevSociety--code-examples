@@ -25,7 +25,7 @@ Together, let's unlock the full potential of Python and embark on an exciting le
 
 ➡ [Pandas DataFrame creation and filtering](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/pandas_example.py)
 
-
+➡
 
 
 ## Additional resources:
