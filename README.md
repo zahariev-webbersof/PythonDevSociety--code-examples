@@ -23,6 +23,14 @@ Together, let's unlock the full potential of Python and embark on an exciting le
 
 ➡ [Two-Factor Authentication (2FA)](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/2FA.py)
 
+➡ [Pandas DataFrame creation and filtering](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/pandas_example.py)
+
+➡
+
+
 ## Additional resources:
 ➡ [Python documentation](https://docs.python.org/3/)
+
 ➡ [Additional resources](#additional-resources)
+
+➡ [Top 10 Pytohn algorithms](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/Top%2010%20Python%20algorithms)
