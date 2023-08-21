@@ -28,7 +28,6 @@ Together, let's unlock the full potential of Python and embark on an exciting le
 ➡ [Python script that uses the Matplotlib library to create an interesting visualization of a sine wave and a cosine wave](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/matplotlib_example.py)
 
 
-
 ## Additional resources:
 ➡ [Python documentation](https://docs.python.org/3/)
 
