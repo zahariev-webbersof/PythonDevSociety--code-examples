@@ -2,7 +2,7 @@
 
 ![git_logo](https://user-images.githubusercontent.com/68993494/209866827-2e9629cc-3009-4e13-a7e5-202903b8702b.jpg)
 
-Welcome to the Python Dev Society! 🐍📚
+🐍📚 Welcome to the Python Dev Society! 🐍📚
 
 At the Python Dev Society, our mission is to provide you with the most up-to-date news, tutorials, and resources for the Python programming language. Whether you're a beginner taking your first steps or an experienced Python developer, we have everything you need to enhance your skills and stay ahead of the curve. 🚀💻
 
