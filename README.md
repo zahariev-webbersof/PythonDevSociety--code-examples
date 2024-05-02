@@ -16,7 +16,7 @@ Whether you're just starting out with Python or aiming to deepen your knowledge 
  
 Together, let's unlock the full potential of Python and embark on an exciting learning adventure in the Python Dev Society. 🐍🌟
 
-## Python Code Examples:
+## Python Code Examples: 
 
 ➡ [Calculating compound interest](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/calculating_compound_interest.py)
  
