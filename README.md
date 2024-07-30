@@ -10,7 +10,7 @@ One exciting aspect of our community is our active GitHub repository, which is a
 
 Join us in the Python Dev Society and discover a wide range of content, including beginner's guides, advanced tutorials, news and updates, and engaging discussions in our community forum. Connect with like-minded individuals from across the globe, share your experiences, and get valuable insights from experts in the field. 🌍
   
-🔗 [Link to Python Dev Soicety - official fan page 🌐](https://www.facebook.com/PythonDevSociety/)
+🔗 [Link to Python Dev Soicety - official fan page 🌐](https://www.facebook.com/PythonDevSociety/) 
 
 Whether you're just starting out with Python or aiming to deepen your knowledge and expertise, we have you covered. Explore our website to learn more, and remember to visit frequently for the latest updates and valuable insights that will fuel your Python journey. 🌟🔍
  
