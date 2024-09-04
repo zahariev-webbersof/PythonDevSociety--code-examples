@@ -13,7 +13,7 @@ Join us in the Python Dev Society and discover a wide range of content, includin
 🔗 [Link to Python Dev Soicety - official fan page 🌐](https://www.facebook.com/PythonDevSociety/) 
 
 Whether you're just starting out with Python or aiming to deepen your knowledge and expertise, we have you covered. Explore our website to learn more, and remember to visit frequently for the latest updates and valuable insights that will fuel your Python journey. 🌟🔍
- 
+  
 Together, let's unlock the full potential of Python and embark on an exciting learning adventure in the Python Dev Society. 🐍🌟
 
 ## Python Code Examples:     
