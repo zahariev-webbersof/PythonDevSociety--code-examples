@@ -15,7 +15,7 @@ Join us in the Python Dev Society and discover a wide range of content, includin
 Whether you're just starting out with Python or aiming to deepen your knowledge and expertise, we have you covered. Explore our website to learn more, and remember to visit frequently for the latest updates and valuable insights that will fuel your Python journey. 🌟🔍
   
 Together, let's unlock the full potential of Python and embark on an exciting learning adventure in the Python Dev Society. 🐍🌟
-
+ 
 ## Python Code Examples:     
  
 ➡ [Calculating compound interest](https://github.com/zahariev-webbersof/PythonDevSociety--code-examples/blob/main/calculating_compound_interest.py)
